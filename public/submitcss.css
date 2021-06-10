@@ -1,0 +1,31 @@
+html, body{
+    background-image: url("https://cdn.hipwallpaper.com/i/29/11/VwlI47.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.btn{
+    background-color:  #008540;
+    border-color: #003319; 
+}
+.btn:hover{
+    background-color:  #003319;
+    border-color: black; 
+}
+.bg-1{
+    background-color: #00854098;
+}
+.table{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15pt;
+    width: 22%;
+    /* text-align: center; */
+    background-color: rgba(128, 128, 128, 0.5);
+}
+.bg-3{
+    background-color: #00854098;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
